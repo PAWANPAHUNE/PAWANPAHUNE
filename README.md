@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c9ff&height=220&section=header&text=Pawan%20Pahune&fontSize=55&fontColor=ffffff&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Agentic%20RAG%20%26%20LLMOps%20%7C%20IIT%20Kharagpur&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
+# ⚡ Pawan Pahune
+#### AI/ML Engineer &nbsp;•&nbsp; Agentic RAG &amp; LLMOps &nbsp;•&nbsp; IIT Kharagpur
 
 <a href="#"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=21&duration=2500&pause=900&color=2CD9FF&center=true&vCenter=true&multiline=true&width=820&height=90&lines=Building+Agentic+RAG+%26+GraphRAG+Systems;LangGraph+%7C+MCP+%7C+Multi-Agent+Orchestration;Fine-tuning+VLMs+%2C+LLMs+%26+Diffusion+Models;Quantum+ML+%7C+LLMOps+%7C+Production-Grade+AI" alt="Typing SVG" /></a>
 
@@ -23,7 +24,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Dual Degree student in Mechanical Engineering with a Micro-Specialisation in AI at **IIT Kharagpur** (expected 2028), working at the intersection of **agentic AI, GraphRAG, LLMOps, and multimodal deep learning**. I design and ship production-style AI systems, from multi-agent financial platforms to enterprise compliance pipelines, combining research rigor with engineering discipline (evaluation, observability, and MLOps baked in from day one).
+I'm a Dual Degree student in Mechanical Engineering with a Micro-Specialisation in AI at **IIT Kharagpur** (CGPA 8.38/10, expected 2028), working at the intersection of **agentic AI, GraphRAG, LLMOps, and multimodal deep learning**. I design and ship production-style AI systems — from multi-agent financial platforms to enterprise compliance pipelines — combining research rigor with engineering discipline (evaluation, observability, and MLOps baked in from day one).
 
 My work spans **Agentic RAG & GraphRAG** (LangGraph, MCP, hybrid BM25 + FAISS + Neo4j retrieval, ColBERT reranking), **LLMOps** (LangSmith, RAGAS, MLflow, DVC, Docker/Kubernetes), **Computer Vision & Generative AI** (VLMs, Stable Diffusion, LoRA/QLoRA fine-tuning), and **Quantum Machine Learning** (Qiskit, QNN/VQC).
 
@@ -206,6 +207,16 @@ Designed hybrid QNN/VQC prediction models on a 14K-sample, 1:200 imbalanced data
 <a href="mailto:pawan262.work@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://github.com/pawanpahune"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://portfolio-green-nine-xvmmf0ie3q.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
+
+<i>Always open to discussing agentic AI, RAG architectures, LLMOps, and multimodal systems.</i>
+
+<br/>
+
+―――――――――――――――――――――――――――――――――――――――――――――
+
+</div>badge&logo=vercel&logoColor=white" /></a>
 
 <br/><br/>
 
